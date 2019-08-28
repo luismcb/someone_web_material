@@ -1,0 +1,14 @@
+@import '../../constants/constants';
+
+
+.BackgroundDiv{
+    background-color: $background-gray;
+    height:90%;
+}
+
+.bodyText{
+    color:$body-text-color;
+    font-size: $body-text-size;
+    font-weight: $body-text-weight;
+
+}
